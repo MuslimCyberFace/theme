@@ -1,6 +1,6 @@
 <h2><b><center>CARA MERUBAH TEMA & FONT TERMUX </center></b></h2>
 ᴀꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍ ᴡᴀʀᴀʜᴍᴀᴛᴜʟʟᴀʜɪ ᴡᴀʙᴀʀᴀᴋᴀᴛᴜʜ
-<br> السلام عليكم ورحمة الله وبركاته
+<br> السلام عليكم ورحمة الله وبركاته<br>
 ₕₑₗₗₒ Wₒᵣₗd & ₕₑₗₗₒ ₜₒ ₐₗₗ ₘₑₘbₑᵣ
 <p> <br>■ INFO MEDIA & GROUP
 <br>Selamat Bergabung Semoga
